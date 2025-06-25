@@ -4,4 +4,5 @@ scikit-learn
 seaborn
 matplotlib
 scipy
+catboost
 -e . #triggers installation of setup.py
